@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yashvant Yadav</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavyashvant&label=Profile%20views&color=0e75b6&style=flat" alt="yadavyashvant" /> </p>
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/>
-</di
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavyashvant&label=Profile%20views&color=0e75b6&style=flat" alt="yadavyashvant" /> </p>
-
+</div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadavyashvant" alt="yadavyashvant" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yadavyashvant25" target="blank"><img src="https://img.shields.io/twitter/follow/yadavyashvant25?logo=twitter&style=for-the-badge" alt="yadavyashvant25" /></a> </p>
