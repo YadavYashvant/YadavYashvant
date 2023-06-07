@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavyashvant&label=Profile%20views&color=0e75b6&style=flat" alt="yadavyashvant" /> </p>
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="200"/>
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadavyashvant" alt="yadavyashvant" /></a> </p>
 
