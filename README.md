@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavyashvant&show_icons=true&locale=en" alt="yadavyashvant" /></p>
 
-<div align="center">
+<div align="left>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
