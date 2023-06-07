@@ -2,7 +2,7 @@
 <h3 align="center">A passionate android developer from India</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavyashvant&label=Profile%20views&color=0e75b6&style=flat" alt="yadavyashvant" /> </p>
