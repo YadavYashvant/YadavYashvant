@@ -35,8 +35,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavyashvant&show_icons=true&locale=en" alt="yadavyashvant" /></p>
 
-<div align="left>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavyashvant&" alt="yadavyashvant" /></p>
+
+<div id="codingif" align="left>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
