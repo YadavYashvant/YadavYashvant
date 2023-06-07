@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yashvantyadav855@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lDoAwJ2Tn-2g7-jMfAl2Gx6eAhiM_F37/view?usp=sharing](https://drive.google.com/file/d/1lDoAwJ2Tn-2g7-jMfAl2Gx6eAhiM_F37/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1lDoAwJ2Tn-2g7-jMfAl2Gx6eAhiM_F37/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
