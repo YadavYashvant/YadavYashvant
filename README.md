@@ -33,6 +33,4 @@
 <div id="header" align="left">
   <img src="[https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="200"/>
 </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavyashvant&show_icons=true&locale=en" alt="yadavyashvant" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavyashvant&" alt="yadavyashvant" /></p>
