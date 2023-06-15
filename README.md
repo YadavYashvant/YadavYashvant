@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/yadavyashvant25" target="blank"><img src="https://img.shields.io/twitter/follow/yadavyashvant25?logo=twitter&style=for-the-badge" alt="yadavyashvant25" /></a> </p>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **SQLite**
 
 - 💬 Ask me about **Android Developement**
 
