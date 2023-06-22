@@ -33,4 +33,3 @@ I'm currently learning databases in android.
 ---
 [![](https://visitcount.itsvg.in/api?id=YadavYashvant&icon=9&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
