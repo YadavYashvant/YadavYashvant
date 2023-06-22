@@ -21,7 +21,7 @@ I'm currently learning databases in android.
 [![](https://gtce.itsvg.in/api?username=YadavYashvant25)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=YadavYashvant&limit=5&theme=dark&combine_all_yearly_contributions=true)
