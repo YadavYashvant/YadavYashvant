@@ -2,7 +2,7 @@
 <h3 align="center">A passionate android developer from India</h3>
 
 ## 💫 About Me:
-I'm currently learning databases in android.
+I'm currently learning databases in android. 
 
 
 ## 🌐 Socials:
