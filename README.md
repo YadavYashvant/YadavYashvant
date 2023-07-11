@@ -3,7 +3,6 @@
 
 ## 💫 About Me:
 I'm currently learning databases in android. 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashvant_yadav.855) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashvant-yadav-b40121249) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YadavYashvant25) 
@@ -19,6 +18,8 @@ I'm currently learning databases in android.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YadavYashvant&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=YadavYashvant25)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
