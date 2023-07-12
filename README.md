@@ -13,6 +13,8 @@ I'm currently learning databases in android.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 # 📊 GitHub Stats:
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YadavYashvant&layout=compact&hide=html&theme=dracula"/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YadavYashvant&theme=jolly&hide_border=false)<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YadavYashvant&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
