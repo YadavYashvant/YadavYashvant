@@ -14,8 +14,6 @@ I'm currently learning databases in android.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YadavYashvant&theme=jolly&hide_border=false)<br/>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YadavYashvant&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </P><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YadavYashvant&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
