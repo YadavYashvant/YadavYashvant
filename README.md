@@ -1,8 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Yashvant Yadav </h1>
 <h3 align="center">A passionate android developer from India</h3>
 
-<a style="border-radius:50%">
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]() </a>
+<a style="border-radius:50%" src="[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()"/>
 
 ## 💫 About Me:
 I'm currently learning databases in android. 
