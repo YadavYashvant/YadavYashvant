@@ -2,11 +2,6 @@
 
 <h3 align="center">A passionate android developer from India</h3>
 
-## About me
-I'm a native android developer. <br>
-I'm currently persuing B.Tech in computer science. <br>
-I'm currently learning databases.
-
 <a style="border-radius:50%" src="[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()"/>
 
 ## 🌐 Socials:
@@ -17,6 +12,12 @@ I'm currently learning databases.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YadavYashvant&theme=jolly&hide_border=false)<br/>
 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YadavYashvant&layout=compact&hide=html&theme=dracula"/> <br>
+
+## About me
+I'm a native android developer. <br>
+I'm currently persuing B.Tech in computer science. <br>
+I'm currently learning databases.
+
 
 
 # 💻 Tech Stack:
