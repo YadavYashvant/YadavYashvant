@@ -5,6 +5,7 @@
 ## About me
 I'm a native android developer. <br>
 I'm currently persuing B.Tech in computer science.
+I'm currently learning databases.
 
 <a style="border-radius:50%" src="[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()"/>
 
