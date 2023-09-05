@@ -36,10 +36,13 @@ I'm currently learning tensorflow.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l6wwtfjdzi2hshtk8j53o0ctv)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=YadavYashvant&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
+
+## 🎧 Recently Played
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l6wwtfjdzi2hshtk8j53o0ctv)
+
 [![](https://visitcount.itsvg.in/api?id=YadavYashvant&icon=9&color=11)](https://visitcount.itsvg.in)
 
