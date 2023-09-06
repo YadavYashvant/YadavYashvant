@@ -37,7 +37,7 @@ I'm currently learning tensorflow.
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 
-## 🎧 Recently Played
+## 🎵 Recently Played
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l6wwtfjdzi2hshtk8j53o0ctv)
 
 [![](https://visitcount.itsvg.in/api?id=YadavYashvant&icon=9&color=11)](https://visitcount.itsvg.in)
