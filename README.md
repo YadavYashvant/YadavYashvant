@@ -12,8 +12,7 @@ I'm currently learning tensorflow.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashvant_yadav.855) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashvant-yadav-b40121249) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YadavYashvant25) 
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YadavYashvant&theme=jolly&hide_border=true)<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YadavYashvant&" alt="YadavYashvant" /></p>
 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YadavYashvant&layout=compact&hide=html&theme=dracula"/> <br>
 
