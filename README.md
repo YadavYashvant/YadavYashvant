@@ -5,7 +5,7 @@
 <a style="border-radius:50%" src="[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()"/>
 
 ## About me
-I'm currently learning tensorflow.
+I'm currently learning springboot.
 
 
 ## 🌐 Socials:
