@@ -41,3 +41,5 @@ I'm currently learning springboot.
 
 [![](https://visitcount.itsvg.in/api?id=YadavYashvant&icon=9&color=11)](https://visitcount.itsvg.in)
 
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+
