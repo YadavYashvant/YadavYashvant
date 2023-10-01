@@ -12,7 +12,7 @@ I'm currently learning springboot.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashvant_yadav.855) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashvant-yadav-b40121249) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YadavYashvant25) 
 
 # 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YadavYashvant&" alt="YadavYashvant" /></p>
+
 <p align="center">
    <a>
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
