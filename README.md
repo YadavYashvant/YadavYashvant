@@ -19,8 +19,8 @@ I'm currently learning springboot.
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YadavYashvant&theme=light&hide_border=true"/>
    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
    </a>
-   
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YadavYashvant&layout=compact&hide=html&theme=dracula"/>
+   <br><br>
+   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YadavYashvant&layout=compact&hide=html&theme=dracula"/>
 </p>
  <br>
 
