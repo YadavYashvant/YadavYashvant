@@ -21,6 +21,7 @@ I'm currently learning springboot.
    </a>
    <br><br>
    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YadavYashvant&layout=compact&hide=html&theme=dracula"/>
+   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YadavYashvant)]
 </p>
  <br>
 
