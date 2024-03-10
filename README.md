@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Bloogm](https://github.com/YadavYashvant/Bloogm)<br>👯 I’m looking to collaborate on my unfinished android projects.<br>🌱 I’m currently learning Spring-Boot.<br>💬 Ask me about Linux, Android Developement, Web Developement.<br>⚡ Fun fact - I love archlinux and fedora.
+🔭 I’m currently working on [Quickity](https://github.com/YadavYashvant/quickity)<br>👯 I’m looking to collaborate on my unfinished android projects.<br>🌱 I’m currently learning Spring-Boot.<br>💬 Ask me about Linux, Android Developement, Web Developement.<br>⚡ Fun fact - I love archlinux and fedora.
 
 
 ## 🌐 Socials:
