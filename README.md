@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Quickity](https://github.com/YadavYashvant/quickity)<br>👯 I’m looking to collaborate on my unfinished android projects.<br>🌱 I’m currently learning Spring Boot.<br>💬 Ask me about Android Developement,Linux,Web Developement.<br>⚡ Fun fact - I use Arch btw 🤓.
+💬 Ask me about Android Developement, Linux, Web Developement.<br>⚡ Fun fact - I use Arch btw 🤓.
 
 
 ## 🌐 Socials:
